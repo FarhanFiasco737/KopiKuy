@@ -1,0 +1,73 @@
+{
+    "liberica": [
+        {
+            "foto": "images/produk/cappucino.jpg",
+            "nama": "Cappuccino Liberika",
+            "size": "500 Gram",
+            "harga": "170.000",
+            "link": "https://www.google.com/aclk?sa=l&ai=DChcSEwixnIj0gOmEAxVvomYCHX-LBTYYABAFGgJzbQ&gclid=Cj0KCQiArrCvBhCNARIsAOkAGcVtFIzWVlgC5K0f7aTEI9Qf7SpbRue6MvqGfsNpnIjKs1IUQTFDuYoaAj15EALw_wcB&sig=AOD64_1RAAnyQ2r1d7ElQGZ3uM3p6RxTHQ&ctype=5&q=&ved=0ahUKEwjgr4P0gOmEAxWbcWwGHZwPAlwQww8I6gY&adurl="
+        },
+        {
+            "foto": "images/produk/black.jpeg",
+            "nama": "Dark Liberika",
+            "size": "100 Gram",
+            "harga": "190.000",
+            "link": "https://www.google.com/aclk?sa=l&ai=DChcSEwixnIj0gOmEAxVvomYCHX-LBTYYABAFGgJzbQ&gclid=Cj0KCQiArrCvBhCNARIsAOkAGcVtFIzWVlgC5K0f7aTEI9Qf7SpbRue6MvqGfsNpnIjKs1IUQTFDuYoaAj15EALw_wcB&sig=AOD64_1RAAnyQ2r1d7ElQGZ3uM3p6RxTHQ&ctype=5&q=&ved=0ahUKEwjgr4P0gOmEAxWbcWwGHZwPAlwQww8I6gY&adurl="
+        },
+        {
+            "foto": "images/produk/latte.jpg",
+            "nama": "Latte Liberika",
+            "size": "150 Gram",
+            "harga": "130.000",
+            "link": "https://www.google.com/aclk?sa=l&ai=DChcSEwixnIj0gOmEAxVvomYCHX-LBTYYABAFGgJzbQ&gclid=Cj0KCQiArrCvBhCNARIsAOkAGcVtFIzWVlgC5K0f7aTEI9Qf7SpbRue6MvqGfsNpnIjKs1IUQTFDuYoaAj15EALw_wcB&sig=AOD64_1RAAnyQ2r1d7ElQGZ3uM3p6RxTHQ&ctype=5&q=&ved=0ahUKEwjgr4P0gOmEAxWbcWwGHZwPAlwQww8I6gY&adurl="
+        }
+    ],
+    "gayo": [
+        {
+            "foto": "images/produk/cappucino2.jpeg",
+            "nama": "Cappucino Gayo",
+            "size": "100 Gram",
+            "harga": "580.000",
+            "link": "https://www.google.com/aclk?sa=l&ai=DChcSEwi7ltHUgOmEAxVlo2YCHfm6A_8YABAJGgJzbQ&gclid=Cj0KCQiArrCvBhCNARIsAOkAGcW21x1uYW4iIx4OUMzQPtWbYauErjbYwcz-BflK_6a1j3EW8pgXlBwaAnVrEALw_wcB&sig=AOD64_1A_V6sfl5TKqe1wrEBhNO8ovBh0Q&ctype=5&q=&ved=0ahUKEwjLs8zUgOmEAxX4d2wGHcXwBgIQww8IgwY&adurl="
+        },
+        {
+            "foto": "images/produk/latte2.jpeg",
+            "nama": "Latte Gayo",
+            "size": "150 Gram",
+            "harga": "450.000",
+            "link": "https://www.google.com/aclk?sa=l&ai=DChcSEwi7ltHUgOmEAxVlo2YCHfm6A_8YABAJGgJzbQ&gclid=Cj0KCQiArrCvBhCNARIsAOkAGcW21x1uYW4iIx4OUMzQPtWbYauErjbYwcz-BflK_6a1j3EW8pgXlBwaAnVrEALw_wcB&sig=AOD64_1A_V6sfl5TKqe1wrEBhNO8ovBh0Q&ctype=5&q=&ved=0ahUKEwjLs8zUgOmEAxX4d2wGHcXwBgIQww8IgwY&adurl="
+        }
+    ],
+    "nonkopi": [
+        {
+            "foto": "images/produk/pancake.png",
+            "nama": "Pancake",
+            "size": "1 Pcs",
+            "harga": "29.000",
+            "link": "https://www.google.com/url?url=https://shopee.co.id/product/25758731/349986753&rct=j&q=&esrc=s&opi=95576897&sa=U&ved=0ahUKEwido8Of_eiEAxVt2DgGHTPuBkUQ1SkIsAYoAA&usg=AOvVaw1VCBTLMrYxX01rdbVU-ou9"
+        },
+        {
+            "foto": "images/produk/croissant.png",
+            "nama": "Croissant",
+            "size": "1 Pcs",
+            "harga": "10.000",
+            "link": "https://www.google.com/url?url=https://www.londonbakerycake.id/product/croissant-plain/&rct=j&q=&esrc=s&opi=95576897&sa=U&ved=0ahUKEwjf3PuK_uiEAxWxUGwGHZa8A9IQ1SkI8QYoAA&usg=AOvVaw2hw9hzogsNCfWPvoHUYF_D"
+        }
+    ],
+    "appetizer": [
+        {
+            "foto": "images/produk/spaghetti.png",
+            "nama": "Spaghetti",
+            "size": "1 Pcs",
+            "harga": "24.500",
+            "link": "https://www.google.com/url?url=https://www.lazada.co.id/products/mi-spaghetti-sedani-i7706558076-s14174832502.html%3Ffrom_gmc%3D1%26fl_tag%3D1&rct=j&q=&esrc=s&opi=95576897&sa=U&ved=0ahUKEwieitjbgemEAxV04TgGHT34AaIQ1SkI8wYoAA&usg=AOvVaw303VU27czMxVixpdelj-sB"
+        },
+        {
+            "foto": "images/produk/pizza.png",
+            "nama": "Pizza",
+            "size": "1 Pcs",
+            "harga": "34.000",
+            "link": "https://www.google.com/url?url=https://www.blibli.com/p/cissipizza-italian-classic-frozen-italian-pizza-instan-siap-saji/is--ANR-70165-00080-00001%3FpickupPointCode%3DPP-3457863%26srsltid%3DAfmBOorqaNqm_Csbry1Q_SsVCwUiO7ooqwwhcEHhVTyBkNjQPNxpm4LzkgU&rct=j&q=&esrc=s&opi=95576897&sa=U&ved=0ahUKEwiVtYCXgumEAxWKn2MGHV26C6YQ2SkIzwY&usg=AOvVaw3cloVFm51oQrjFWFuZCbGt"
+        }
+    ]
+}
